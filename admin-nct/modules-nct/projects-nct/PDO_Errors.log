@@ -1,0 +1,483 @@
+2017-02-27 05:02:09 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 05:02:09 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 05:02:02 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 05:02:02 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:22 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:22 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:28 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:28 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:29 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:29 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR p.title LIKE '%adsf'%' OR DATE_FORMAT(p.createdDate, '%b %d, %Y') LIKE '%a' at line 10: 308
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:54 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:54 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:03 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:03 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:02 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:02 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:07 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:07 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:15 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:15 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:18 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:18 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:24 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:24 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:43 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:43 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:03 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:03 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:05 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:05 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:07 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:07 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:56 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:56 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:57 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:57 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:05 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:05 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:31 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:31 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:43 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:43 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-27 06:02:51 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:58 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:11 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:11 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:20 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:20 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:20 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:20 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:21 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:26 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:26 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:32 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:32 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:33 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:38 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:39 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:40 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:40 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:40 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:40 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:41 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:42 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:46 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:48 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:52 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:53 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:54 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:54 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:35 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 01:02:44 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:34 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:12 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:12 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:13 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-02-28 03:02:13 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:30 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:31 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:47 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:55 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:59 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:59 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 03:03:00 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 04:03:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW
+2017-03-02 04:03:49 :: invalid operation SELECT
+		 called in query. use only SELECT, INSERT, UPDATE, DELETE, SHOW

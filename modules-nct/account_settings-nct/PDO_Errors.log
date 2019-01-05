@@ -1,0 +1,5 @@
+2017-02-23 12:02:52 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'for = 'p'' at line 1: 426
+2017-02-23 12:02:22 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'for = 'c' OR for = "both"' at line 1: 361
+2017-02-23 12:02:26 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'for = 'c' OR for = "both"' at line 1: 361
+2017-05-04 12:05:51 :: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound: 393
+2017-05-04 12:05:02 :: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound: 393

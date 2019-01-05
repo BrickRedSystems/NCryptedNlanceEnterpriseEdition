@@ -1,0 +1,94 @@
+/*! ========================================================================
+ * Bootstrap Toggle: bootstrap-toggle.css v2.2.0
+ * http://www.bootstraptoggle.com
+ * ========================================================================
+ * Copyright 2014 Min Hur, The New York Times Company
+ * Licensed under MIT
+ * ======================================================================== */
+.checkbox label .toggle,.checkbox-inline .toggle{margin-left:-20px;margin-right:5px}
+.toggle{position:relative;overflow:hidden; z-index:1;}
+.toggle input[type=checkbox]{display:none}
+.toggle-group{position:absolute;width:200%;top:0;bottom:0;left:0;transition:left .35s;-webkit-transition:left .35s;-moz-user-select:none;-webkit-user-select:none}
+.toggle.off .toggle-group{left:-100%}
+.toggle-on{position:absolute;top:0;bottom:0;left:0;right:50%;margin:0;border:0;border-radius:0}
+.toggle-off{position:absolute;top:0;bottom:0;left:50%;right:0;margin:0;border:0;border-radius:0}
+.toggle-handle{position:relative;margin:0 auto;padding-top:0;padding-bottom:0;height:24px;width:24px;border-width:0 1px; border-radius:50%; background:#eeeeee;}
+.toggle.btn{min-width:35px;height:11px; padding:0; background:none;}
+.toggle-on.btn {padding:0; font-size:0px;height:11px; margin-top:7px; border-radius: 10px;}
+.toggle-off.btn{padding:0; font-size:0px; height:11px; margin-top:7px; border-radius: 10px;}
+.toggle.btn-lg{min-width:79px;min-height:45px}
+.toggle-on.btn-lg{padding-right:31px}
+.toggle-off.btn-lg{padding-left:31px}
+.toggle-handle.btn-lg{width:40px}
+.toggle.btn-sm{min-width:50px;min-height:20px}
+.toggle-on.btn-sm{padding-right:20px}
+.toggle-off.btn-sm{padding-left:20px}
+.toggle.btn-xs{min-width:35px;min-height:20px}
+.toggle-on.btn-xs{padding-right:12px}
+.toggle-off.btn-xs{padding-left:12px}
+
+.btn-danger:hover {
+	color:#fff;
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+.btn-danger.active, .btn-danger:active, .open>.dropdown-toggle.btn-danger {
+
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+.btn-danger.active.focus, .btn-danger.active:focus, .btn-danger.active:hover, .btn-danger:active.focus, .btn-danger:active:focus, .btn-danger:active:hover, .open>.dropdown-toggle.btn-danger.focus, .open>.dropdown-toggle.btn-danger:focus, .open>.dropdown-toggle.btn-danger:hover {
+	color:#fff;
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+
+.btn-success.focus, .btn-success:focus {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.btn-success:hover {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.btn-success.active, .btn-success:active, .open>.dropdown-toggle.btn-success {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.btn-success.active.focus, .btn-success.active:focus, .btn-success.active:hover, .btn-success:active.focus, .btn-success:active:focus, .btn-success:active:hover, .open>.dropdown-toggle.btn-success.focus, .open>.dropdown-toggle.btn-success:focus, .open>.dropdown-toggle.btn-success:hover {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.btn-success.active, .btn-success:active, .open>.dropdown-toggle.btn-success {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.btn-success.disabled.focus, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled].focus, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover {
+	background:none;
+	border:none;
+	box-shadow:none;
+
+}
+.toggle {border-radius: 10px; background: #9fc46a; padding: 0; width: 20%;}
+.btn-success {background: #84a4b9;border:none; padding:8px 20px 0 0px;line-height: 1;box-shadow:none;color: #fff;text-shadow:none;font-weight:700;}
+.btn-success .toggle-handle {margin:4px 21px 0 0;background: #054570;height:16px;width:16px;border:none; padding:0; box-shadow:0 0 5px #333;}
+.btn-danger .toggle-handle {margin:4px 0 0 20px;background: #f1f1f1;height:16px;width:16px;border:none; padding:0; box-shadow:0 0 5px #333;}
+.btn-danger {background: #dd7d6c;font-size: 15px;border:none;padding:8px 0 0 25px;line-height: 1;color: #fff;text-shadow:none;box-shadow:none; }
+
+.toggle .btn-danger.active, .toggle .btn-danger:active, .toggle .open > .dropdown-toggle.btn-danger
+{background: #c2c1c1; box-shadow:none;}
+.toggle .btn-danger:hover, .toggle .btn-danger:focus {background: #c2c1c1;}
+.toggle .btn-success:hover, .toggle .btn-success:focus {background: #84a4b9;}

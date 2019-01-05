@@ -1,0 +1,175 @@
+.mtop10{margin-top: 10px;}
+.floatleft{float: left;}
+.floatright{float: right;}
+.left{float: left;width: 15%;}
+.right{float: left;width: 85%;}
+.footer-text{text-align: center; color:#FFF; font-size:18px;}
+.footer-text a{color:#2d7db5 !important;}
+.nct-footer-copyright{width: 50%;}
+.ncrypted-logo-footer{margin:auto; display:block;}
+footer .form-control{min-height: 25px;line-height:25px;border: none;padding:5px 12px;}
+.newsletter{margin-left: 20px;margin-top: 0px;}
+.nct-common-footer{padding:30px 0; background:url(../images-nct/footer_image.jpg) no-repeat; padding:25px 0; background-size:cover; -webkit-background-size:cover; -moz-background-size:cover; position:relative; z-index:2;} 
+/*.nct-common-footer .container{width: 1140px;margin: 0px auto;}*/
+
+.nct-common-footer a{ color: #fff;text-decoration: none;}
+.nct-common-footer a:hover, .nct-common-footer a:active, .nct-common-footer a:focus{ text-decoration: none;}
+.nct-footer-language{ font-size: 17px;}
+.nct-footer-language > div{ margin-bottom: 25px;}
+.newsletter-textbox{ width: 80%;float: left;}
+.newsletter-submit{margin-left: -4px;color: #fff; background-color: #337ab7;float: left;width: auto;}
+/*.nct-footer-navigation{ margin-left: 20px;}*/
+.nct-footer-navigation li{ list-style: none; display: inline-block; font-size: 19px;}
+.nct-footer-navigation li:after{ content: "|"; color: #fff; margin-left: 25px; margin-right: 25px;}
+.nct-footer-navigation li:last-child:after{ content: none;}
+.nct-footer-navigation ul{ padding-left: 0;}
+.nct-common-footer-top{ border-bottom: 1px solid #6f6f6f; padding-bottom: 20px; margin-bottom: 20px; width: 100%; float: left;}
+.nct-footer-copyright{ font-size: 18px; color: #fff;}
+.nct-footer-copyright a{ color:#318bca;}
+.ncrypted-logo-footer{ margin-top:20px;}
+.ncrypted-logo-footer a img{display:block; margin:auto;}
+.footer_social{ background:url(../images-nct/footer_social.png) top left no-repeat; }
+.ncrypted:hover{ width:39px; height:39px; background-position:-10px -10px; }
+.linkedin:hover{ width:39px; height:39px; background-position:-10px -59px; }
+.google:hover{ width:39px; height:39px; background-position:-10px -108px; }
+.twitter:hover{ width:39px; height:39px; background-position:-10px -156px; }
+.facebook:hover{ width:39px; height:39px; background-position:-11px -206px; }
+.facebook{background-position:-10px -451px; }
+.ncrypted{ width:39px; height:39px; background-position:-10px -255px; }
+.linkedin{ width:39px; height:39px; background-position:-10px -304px; }
+.google{ width:39px; height:39px; background-position:-10px -353px; }
+.twitter{ width:39px; height:39px; background-position:-10px -402px; }
+.facebook{ width:39px; height:39px; background-position:-10px -451px; }
+a.footer_social{ display: inline-block; margin-right: 15px;}
+.ncrypted-footer-social-media{ text-align: right;}
+.ncrypted-footer-social-media a{transition: all 0.3s ease;}
+.nct-footer-head{margin-bottom:20px; text-align:center;}
+.nct-footer-head ul li{display:inline-block; margin-right:40px; color:#FFF; font-size:19px;}
+.nct-footer-head ul{margin:0; padding:0;}
+.number{display:block; text-align:center;}
+.bottom-line{width: 30%;
+display: block;
+margin: 15px auto;}
+.nct-footer-emailtext{width:87%; float:left; padding-left:20px; height:41px;}
+.nct-footer-messagebtn{width:13%; float:left; border-radius:0px; padding:6px 2px;}
+.nct-footer-messagebtn i{font-size:26px;}
+.nct-common-footer-languages{background-color:transparent; border:none; display:block; margin:auto; color:#FFF; padding-top:0; font-size:16px;}
+.nct-common-footer-languages:hover{background-color:transparent; border:none; display:block; margin:auto; color:#FFF;}
+.nct-common-footer-languages:hover, .nct-common-footer-languages:active, .nct-common-footer-languages:focus{background-color:transparent !important; border:none !important; outline:none !important;}
+.open > .nct-footer-dropdown { bottom:100% !important; top:auto !important;}
+.nct-footer-navigation>ul>li>a:hover {
+    color: #fff;
+}
+.nct-footer-navigation>ul>li>a {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    position: relative;
+    overflow: hidden;
+}
+.nct-footer-navigation>ul>li>a {
+    font-size: 18px;
+    color: #fff;
+    padding-left: 0;
+    padding-right: 0;
+	padding-bottom:10px;
+}
+.nct-footer-navigation>ul>li>a:hover:before, .nct-footer-navigation>ul>li>a:focus:before, .nct-footer-navigation>ul>li>a:active:before {
+    left: 0;
+    right: 0;
+	background:#fff;
+}
+.nct-footer-navigation>ul>li>a:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    background:transparent;
+    height: 2px;
+    -webkit-transition-property: left, right;
+    transition-property: left, right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+.drpdwn .nct-footer-dropdown{background-color:#FFF;}
+.nct-common-footer-bottom .drpdwn.open::before{display:none;}
+
+@media only screen and (max-width: 1199px) {
+    .ncrypted-footer-social-media{ margin-top: 30px; text-align: center;}
+    .nct-footer-navigation li:after{ margin-right: 10px; margin-left: 10px;}
+    .nct-footer-navigation li a{ font-size: 14px;}
+	.nct-footer-copyright{width:100%;}
+	.nct-footer-emailtext {width: 83%;}
+.nct-footer-messagebtn {width: 17%;}
+}
+@media only screen and (max-width: 1090px) {
+.nct-common-footer .container{width: 93%;margin: 0px auto;}
+.newsletter-textbox{width:auto; min-width: 60%;}
+}
+@media only screen and (max-width: 980px) {
+.ncrypted-logo-footer{margin-left:0px;}
+.nct-footer-emailtext {width: 80%;}
+.nct-footer-messagebtn {width: 20%;}
+.nct-footer-messagebtn i {font-size: 25px;}
+}
+@media only screen and (max-width: 800px) {.nct-footer-emailtext {width: 75%;}
+.nct-footer-messagebtn {width: 25%;}}
+@media only screen and (max-width: 767px) {
+.nct-footer-language div{ display: inline-block; margin-right: 40px;}
+.nct-footer-newletters-container { text-align: center;}
+.nct-footer-newletters-container .btn{ margin-top: 10px;}
+.nct-footer-language, .nct-footer-navigation{ text-align: center;}
+.nct-footer-language > div:last-child{ margin-right: 0;}
+.nct-footer-navigation li{ padding-bottom: 10px;}
+.nct-footer-copyright{ font-size: 14px;}
+.nct-footer-head ul li {display: block; margin-right: 40px; color: #FFF; font-size: 19px; margin-bottom: 40px;}
+.bottom-line {width:10%;}
+.nct-footer-head ul li{margin-right:0px;}
+.newsletter{margin-left:0px;}
+.nct-footer-emailtext {width:90%;}
+.nct-footer-messagebtn {width:10%;}
+.nct-footer-dropdown{left:42%;}
+.nct-footer-navigation li:after {margin:0;}
+.nct-footer-navigation > ul > li > a:before {display:none;}
+.nct-footer-navigation > ul > li > a {padding-bottom:0; font-size:15px;}
+.nct-footer-navigation > ul > li {padding-bottom:5px;}
+.footer-text {font-size:14px;}
+.ncrypted-footer-social-media {margin-top:15px;}
+.nct-common-footer {padding-bottom:40px;}
+.nct-common-footer-top { margin-bottom:15px;}
+}
+@media only screen and (max-width: 520px) {
+    .nct-footer-navigation li{padding-bottom: 10px; display: block;}
+    .nct-footer-navigation li:after{content: "";}
+    .nct-footer-language div{margin-right: 20px;}
+   a.footer_social {margin:0 4px;}
+}
+@media only screen and (max-width: 480px) {
+.newsletter-textbox {
+    width: auto;
+    min-width: 100%;
+}
+.newsletter-submit
+{width: 100%;
+margin-left: 0px;
+margin-top: 15px;}
+.nct-footer-language, .nct-footer-navigation{width:100%; text-align:center; margin-left:0px;}
+.ncrypted-logo-footer{float:none;}
+.ncrypted-logo-footer a img{display:block; margin:auto;}
+.nct-footer-emailtext {width: 85%;}
+.nct-footer-messagebtn {width: 15%;}
+}
+@media only screen and (max-width: 360px) {.nct-footer-dropdown{left:32%;}}
+@media only screen and (max-width: 320px) {
+.nct-footer-emailtext {width: 80%;}
+.nct-footer-messagebtn {width: 20%;}
+}

@@ -1,0 +1,2 @@
+2017-04-04 10:04:13 :: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dev_nlancev3`.`tbl_users`, CONSTRAINT `tbl_users_ibfk_5` FOREIGN KEY (`city`) REFERENCES `tbl_city` (`CityId`) ON UPDATE CASCADE): 684
+2017-04-04 10:04:34 :: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`dev_nlancev3`.`tbl_users`, CONSTRAINT `tbl_users_ibfk_5` FOREIGN KEY (`city`) REFERENCES `tbl_city` (`CityId`) ON UPDATE CASCADE): 684

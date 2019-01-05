@@ -1,0 +1,30 @@
+[29-Dec-2017 12:10:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:10:22 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[29-Dec-2017 12:10:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:10:31 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[29-Dec-2017 12:10:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:10:49 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[29-Dec-2017 12:10:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:10:55 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[29-Dec-2017 12:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:10:59 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[29-Dec-2017 12:48:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[29-Dec-2017 12:48:12 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[01-Jan-2018 06:42:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Jan-2018 06:42:21 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[01-Jan-2018 06:44:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-Jan-2018 06:44:53 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[02-Jan-2018 06:42:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Jan-2018 06:42:51 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[02-Jan-2018 06:58:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[02-Jan-2018 06:58:45 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[03-Jan-2018 08:37:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Jan-2018 08:37:08 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[03-Jan-2018 08:48:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Jan-2018 08:48:06 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[03-Jan-2018 08:49:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Jan-2018 08:49:28 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[03-Jan-2018 08:50:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Jan-2018 08:50:29 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0
+[03-Jan-2018 08:51:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/ffmpeg.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[03-Jan-2018 08:51:37 UTC] PHP Warning:  Module 'ssh2' already loaded in Unknown on line 0

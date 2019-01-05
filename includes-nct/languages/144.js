@@ -1,0 +1,1 @@
+var lang = { Say_something_about_your_bid_in_more_detail : "अधिक बोली में अपनी बोली के बारे में कुछ कहें", find_an_provider : "एक कलाकार खोजें", find_an_project : "एक घटना खोजें", Client : "क्लाइंट", Verifiication : "Verification",  Please_verify_with_the_same_email : "Please verify with the same email.",  };

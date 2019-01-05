@@ -1,0 +1,1 @@
+var lang = {  Please_verify_with_the_same_email : "Please verify with the same email.",  };

@@ -1,0 +1,10 @@
+<tr>
+    <td>%GROUP_NAME%</td>
+    <td>%GROUP_TYPE%</td>
+    <td>%WEBSITE_URL%</td>
+    <td>%PRIVACY_TEXT%</td>
+    <td>%ACCESSIBILITY_TEXT%</td>
+    <td>%ADDED_ON%</td>
+    <td>%UPDATED_ON%</td>
+    <td>%JOINED_ON%</td>
+</tr>

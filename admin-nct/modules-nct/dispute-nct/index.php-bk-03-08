@@ -1,0 +1,163 @@
+<?php
+$reqAuth = true;
+require_once ("../../../includes-nct/config-nct.php");
+require_once ("class.dispute-nct.php");
+
+$module = "dispute-nct";
+$table = "tbl_project_dispute";
+
+chkPermission($module);
+$Permission = chkModulePermission($module);
+
+$styles = array(
+	array(
+		"data-tables/DT_bootstrap.css",
+		SITE_ADM_PLUGIN
+	),
+	array(
+		"bootstrap-switch/css/bootstrap-switch.min.css",
+		SITE_ADM_PLUGIN
+	)
+);
+
+$scripts = array(
+	"core/datatable.js",
+	array(
+		"data-tables/jquery.dataTables.js",
+		SITE_ADM_PLUGIN
+	),
+	array(
+		"data-tables/DT_bootstrap.js",
+		SITE_ADM_PLUGIN
+	),
+	array(
+		"bootstrap-switch/js/bootstrap-switch.min.js",
+		SITE_ADM_PLUGIN
+	)
+);
+
+$metaTag = getMetaTags(array(
+	"description" => "Admin Panel",
+	"keywords" => 'Admin Panel',
+	"author" => SITE_NM
+));
+$breadcrumb = array("Dispute");
+
+$id = isset($_GET['id']) ? $_GET['id'] : 0;
+
+$postType = isset($_POST["type"]) ? trim($_POST["type"]) : '';
+$type = isset($_GET["type"]) ? trim($_GET["type"]) : $postType;
+$ctypeTxt = isset($_REQUEST["ctype"]) ? trim($_REQUEST["ctype"]) : "f";
+$ctype = $ctypeTxt == 'pages' ? 't' : ($ctypeTxt == 'messages' ? 'm' : 'f');
+$headTitle = $type == 'add' ? 'Add' : ($type == 'edit' ? 'Edit' : 'Manage ') . ' Dispute';
+$winTitle = $headTitle . ' - ' . SITE_NM;
+$insArray = array();
+
+if (isset($_POST["submitAddForm"]) && $_SERVER["REQUEST_METHOD"] == "POST") {
+	extract($_POST);
+	//0-pending ,1-accepted ,2-rejected
+	$insArray = array(
+		'subject' => $subject,
+		'description' => $description,		
+		'admin_judgement' => $admin_judgement
+	);
+	
+	if (trim($subject) != "" && trim($subject)!='' ) {
+		if ($type == 'edit' && $id > 0) {
+			if (in_array('edit', $Permission)) {
+				$db -> update($table, $insArray, array("id" => $id));
+				$db -> update('tbl_projects', array("jobStatus"=>'closed'), array("id" => $projectId));
+				$milePrice = $db->pdoQuery("SELECT SUM(price) AS price FROM tbl_milestone WHERE status != 'paid' AND projectId = ?",array($projectId))->result();
+				$projectPrice = $milePrice['price'];
+				//if approved then give to raiser else other user
+				$whoraisedDispute = getTableValue($table, 'userId',array("id"=>$id));
+				$projectUserId = getTableValue('tbl_projects', 'userId',array("id"=>$projectId));
+				$projectProviderId = getTableValue('tbl_projects', 'providerId',array("id"=>$projectId));
+				
+				// update total wallet amount in user table
+				if($admin_judgement == 'valid'){
+					$db->pdoQuery('UPDATE tbl_users SET walletamount=walletamount+? WHERE userId=?', array($projectPrice, $whoraisedDispute));	
+				}else if($admin_judgement == 'invalid'){
+					if($whoraisedDispute == $projectUserId){
+						$db->pdoQuery('UPDATE tbl_users SET walletamount=walletamount+? WHERE userId=?', array($projectPrice, $projectProviderId));	
+					}else{
+						$db->pdoQuery('UPDATE tbl_users SET walletamount=walletamount+? WHERE userId=?', array($projectPrice, $projectUserId));
+					}					
+				}
+				
+                
+                $custDetails = $db -> pdoQuery("SELECT u.firstName, u.email, u.profileLink, u.userType  FROM tbl_users AS u WHERE u.userId=?",array($projectUserId)) -> result();
+                $providerDetails = $db -> pdoQuery("SELECT u.firstName, u.email, u.profileLink, u.userType   FROM tbl_users AS u WHERE u.userId=?",array($projectProviderId)) -> result();
+                $projectDetails = $db -> pdoQuery("SELECT  p.title, p.description, p.slug  FROM tbl_projects AS p WHERE p.id=?",array($projectId)) -> result();     
+                
+                //send to customer
+                $array = generateEmailTemplate('dispute_resolved_admin', array(
+                    'greetings' => ucfirst($custDetails['firstName']),
+                    'projectTitle' => $projectDetails['title'],
+                    'projectLink' => SITE_URL.$custDetails['profileLink'].'/'.$projectDetails['slug'],
+                    'userType' => ($custDetails['userType']=='p')?'provider':'customer',
+                    'description' => $projectDetails['description'],
+                    'judgement' => ucfirst($admin_judgement),
+                    'remarks' => null,
+                    'final_resolution' => 'Refund | '.CURRENCY_SYMBOL.' '.$projectPrice
+                ));
+                //echo $array['message'];
+                sendEmailAddress($custDetails['email'], $array['subject'], $array['message']);
+                
+                //send to provider
+                $array = generateEmailTemplate('dispute_resolved_admin', array(
+                    'greetings' => ucfirst($providerDetails['firstName']),
+                    'projectTitle' => $projectDetails['title'],
+                    'projectLink' => SITE_URL.$providerDetails['profileLink'].'/'.$projectDetails['slug'],
+                    'userType' => ($providerDetails['userType']=='p')?'provider':'customer',
+                    'description' => $projectDetails['description'],
+                    'judgement' => ucfirst($admin_judgement),
+                    'remarks' => null,
+                    'final_resolution' => 'Refund | '.CURRENCY_SYMBOL.' '.$projectPrice
+                ));    			
+                //echo '<br/>'.$array['message'];exit;
+                sendEmailAddress($providerDetails['email'], $array['subject'], $array['message']);	
+                                
+				$_SESSION["toastr_message"] = disMessage(array(
+					'type' => 'suc',
+					'var' => 'Record has been updated successfully.'
+				));
+			}
+			else {
+				$msgType = $_SESSION["toastr_message"] = disMessage(array(
+					'type' => 'err',
+					'var' => 'You are not authorised to perform this action.'
+				));
+			}
+		}
+		else {
+			if (in_array('add', $Permission)) {
+
+				$db -> insert("tbl_project_dispute", $insArray);
+
+				$_SESSION["toastr_message"] = disMessage(array(
+					'type' => 'suc',
+					'var' => 'Record has been added successfully.'
+				));
+
+			}
+			else {
+				$msgType = $_SESSION["toastr_message"] = disMessage(array(
+					'type' => 'err',
+					'var' => 'You are not authorised to perform this action.'
+				));
+			}
+		}
+		redirectPage(SITE_ADM_MOD . $module);
+	}
+	else {
+		$msgType = array(
+			'type' => 'err',
+			'var' => 'Please fill all required fields carefully.'
+		);
+	}
+}
+
+$constObj = new Dispute($module, $id = 0, array(), $type = 'langArray');
+$pageContent = $constObj -> getPageContent();
+require_once (DIR_ADMIN_TMPL . "parsing-nct.tpl.php");

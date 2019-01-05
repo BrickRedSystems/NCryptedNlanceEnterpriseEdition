@@ -1,0 +1,1 @@
+<p class="form-control-static logintextbox-bg required">%CONSTANT_NAME%</p>

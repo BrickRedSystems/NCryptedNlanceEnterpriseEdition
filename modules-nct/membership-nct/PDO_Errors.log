@@ -1,0 +1,8 @@
+2017-02-22 06:02:04 :: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound: 426
+2017-02-22 07:02:07 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:37 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:45 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:48 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:16 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:56 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480
+2017-02-22 08:02:53 :: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens: 480

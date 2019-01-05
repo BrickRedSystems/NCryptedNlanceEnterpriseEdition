@@ -1,0 +1,1 @@
+2017-02-28 04:02:43 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR u.`lastName` LIKE '%ad'%' OR p.title LIKE '%ad'%' OR DATE_FORMAT(pd.create' at line 13: 308

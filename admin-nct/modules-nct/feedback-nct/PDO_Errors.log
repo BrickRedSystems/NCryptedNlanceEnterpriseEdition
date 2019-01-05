@@ -1,0 +1,4 @@
+2017-03-01 01:03:25 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause': 308
+2017-03-01 01:03:28 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause': 308
+2017-03-01 01:03:36 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause': 308
+2017-03-01 01:03:56 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'order clause': 308

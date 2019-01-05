@@ -1,0 +1,17 @@
+2017-04-01 05:04:05 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:08 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:13 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:14 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:14 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:14 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:14 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:15 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:15 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:15 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:15 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:15 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:16 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:16 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:17 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:27 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512
+2017-04-01 05:04:37 :: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'check-open-project-status' for key 'slug': 512

@@ -1,0 +1,8 @@
+2017-03-01 02:03:29 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subcategoryName' in 'order clause': 308
+2017-03-01 02:03:12 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subcategoryName' in 'order clause': 308
+2017-03-01 03:03:35 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subcategoryName' in 'order clause': 308
+2017-03-01 03:03:36 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR sub.description LIKE '%writing'%'' at line 1: 308
+2017-03-01 03:03:37 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's%' OR sub.description LIKE '%writing's%'' at line 1: 308
+2017-03-02 06:03:32 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'subcategoryName' in 'order clause': 308
+2017-03-02 06:03:33 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'categoryName' in 'order clause': 308
+2017-03-02 06:03:37 :: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'categoryName' in 'order clause': 308

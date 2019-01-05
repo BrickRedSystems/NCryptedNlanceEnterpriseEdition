@@ -1,0 +1,9 @@
+<tr>
+    <td>%DEGREE_NAME%</td>
+    <td>%UNIVERSITY_NAME%</td>
+    <td>%FIELD_OF_STUDY%</td>
+    <td>%FROM%</td>
+    <td>%TO%</td>
+    <td>%GRADE_OR_PERCENTAGE%</td>
+    <td>%DESCRIPTION%</td>
+</tr>

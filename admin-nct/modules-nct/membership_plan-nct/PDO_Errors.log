@@ -1,0 +1,1 @@
+2017-03-06 01:03:50 :: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%' OR DATE_FORMAT(m.createdDate, '%b %d, %Y') LIKE '%asdf'%') ORDER BY id desc' at line 1: 308
